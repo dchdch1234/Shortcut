@@ -1,0 +1,3 @@
+支付宝	alipayqr://platformapi/startapp?saId=20000056
+支付宝扫码	alipayqr://platformapi/startapp?saId=10000007"
+森林	alipayqr://platformapi/startapp?appId=60000002
