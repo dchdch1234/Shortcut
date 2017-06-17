@@ -1,3 +1,4 @@
-支付宝	alipayqr://platformapi/startapp?saId=20000056
-支付宝扫码	alipayqr://platformapi/startapp?saId=10000007"
-森林	alipayqr://platformapi/startapp?appId=60000002
+f17253d4-536e-11e7-b114-b2f933d5fe66	支付宝	alipayqr://platformapi/startapp?saId=20000056
+f1725690-536e-11e7-b114-b2f933d5fe66	支付宝扫码	alipayqr://platformapi/startapp?saId=10000007"
+f1725aa0-536e-11e7-b114-b2f933d5fe66	森林	alipayqr://platformapi/startapp?appId=60000002
+ff393504-536f-11e7-b114-b2f933d5fe66	微信扫	weixin://scanqrcode
